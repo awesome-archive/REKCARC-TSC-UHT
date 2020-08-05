@@ -7,6 +7,21 @@
 数据库一个人写可以拿到110%的分，实现完基本功能（包括利用索引加速查询和多表Join查询——这两个在评分的时候好像算附加功能）基本就A了，不放心再加两个小功能，单人完成绝对物超所值。
 
 ## 大作业
+
+https://github.com/Harry-Chen/SimpleDB by Shengqi Chen
+
 https://github.com/duzx16/MyDB by Zhengxiao Du and Yifan Wu
 
-https://github.com/gjz010/slowql by gjz010
+https://github.com/gjz010/slowql by Jingzhe Guo
+
+https://github.com/qinyao-he/wxyDB by Qinyao He
+
+https://github.com/wangrunji0408/DBProject by Runji Wang
+
+https://github.com/miskcoo/TrivialDB by Yuhao Zhou
+
+https://github.com/huzecong/rebaseDB by Zecong Hu and Yilong Wei
+
+https://github.com/RecursionSheep/DBNoC by Zhiyang Chen
+
+https://github.com/MashPlant/db by Chenhao Li
